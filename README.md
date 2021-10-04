@@ -1,6 +1,9 @@
 # Unity-GridBasedMovement
 A simple grid based point and click movement system made using the Grid component in Unity.
 
+Download the package in the GridBasedMovementPackage folder, or you can download the whole Unity
+project in GridBasedMovement.
+
 There are 2 main scripts in this project.
 
 # DisplayGrid.cs 
